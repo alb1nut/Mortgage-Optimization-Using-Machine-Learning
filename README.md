@@ -54,4 +54,6 @@ The company seeks to maximize profits by issuing loans to clients with the highe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mortgage-optimization-ml.git
+   git clone https://github.com/alb1nut/Mortgage-Optimization-Using-Machine-Learning.git
+
+ 
